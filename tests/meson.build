@@ -46,6 +46,7 @@ tests = [
   'test-is-public',
   'test-is-public-all',
   'test-is-cookie-domain-acceptable',
+  'test-is-public-punycode',
 ]
 
 if enable_builtin
